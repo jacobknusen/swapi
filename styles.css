@@ -1,0 +1,10 @@
+*{
+    background-color: pink;
+}
+#button{
+    background-color: black;
+    color: azure;
+    height: 40px;
+    width: 100px;
+    padding: 10px solid blue ;
+}
